@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\User\Desktop\Cosmetics-Solution\Cosmetics\obj\Debug\Cosmetics.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\04. Code-Documentation-and-Comments-Homework\Cosmetics-Solution\Cosmetics\bin\Debug\Cosmetics.exe.config
+D:\SoftUni\VisualStudio\КПК\Homeworks\04. Code-Documentation-and-Comments-Homework\Cosmetics-Solution\Cosmetics\obj\Debug\Cosmetics.exe
+D:\SoftUni\VisualStudio\КПК\Homeworks\04. Code-Documentation-and-Comments-Homework\Cosmetics-Solution\Cosmetics\obj\Debug\Cosmetics.pdb
